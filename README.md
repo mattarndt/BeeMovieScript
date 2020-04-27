@@ -1,6 +1,6 @@
 # BeeMovieScript
 
-To run this program, you must have python3 installed on your computer. To download it, go to [here](https://www.python.org/downloads/)
+To run this program, you must have python3 installed on your computer. To download it, go [here](https://www.python.org/downloads/)
 
 Next, you must download [pyautogui](https://pypi.org/project/PyAutoGUI/), [urllib3](https://urllib3.readthedocs.io/en/latest/), and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup).
 
